@@ -75,6 +75,7 @@ streamlit run app.py
 ## 👨‍💻 Developer
 
 Created by Raj Hussain
+https://eduinsight-budwmzlpwhvx3nyzehhsdo.streamlit.app
 
 A project focused on Python, AI, Data Science, and Educational Technology.
 
